@@ -1,2 +1,2 @@
 # FCC
-Exercises Free Code Camp
+The exercices are on the wiki of this repository.
