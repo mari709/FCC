@@ -2,4 +2,10 @@
 
 ## Links:
 
-[Responsive Web Design - Developer Certification](https://www.freecodecamp.org/certification/marinamansueto/responsive-web-design)
+[Responsive Web Design - Projects](https://codepen.io/collection/XRxoEM)
+
+[Responsive Web Design - Certification](https://www.freecodecamp.org/certification/marinamansueto/responsive-web-design)
+
+
+
+
